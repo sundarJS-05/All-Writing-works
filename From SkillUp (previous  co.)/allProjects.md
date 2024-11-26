@@ -1,7 +1,9 @@
 
-** DISCLAIMER:
-I contributed to these as an Author at my previous company SkillUp Online (24.6.21 - 27.6.24) . 
-I DO NOT own any of these.  All these have been developed by SkillUp Online for IBM's Online courses & each holds an IBM Copyright.
+<h3>DISCLAIMER: </h3>
+<p> I contributed to these as an Author at my previous company SkillUp Online (24.6.21 - 27.6.24) . 
+  <br>
+I DO NOT own any of these.  All these have been developed by SkillUp Online for IBM's Online courses & each holds an IBM Skills Network Copyright.
+</p>
 
 
 <table>
