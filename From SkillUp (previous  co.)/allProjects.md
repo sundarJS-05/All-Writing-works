@@ -3,7 +3,7 @@
   <tr>
     <th>S No. </th>
     <th> Course </th>
-    <th> Project link  <br> RIGHT CLICK to open in new tab </th>
+    <th> Project link  <br> <small> (RIGHT CLICK to open in new tab) </small> </th>
   </tr>
 
 <tr>
