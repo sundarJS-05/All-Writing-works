@@ -9,7 +9,7 @@
 
 <tr>
       <td> 1 </td>
-    <td>  <a href='[https://drive.google.com/file/d/1fTwfqwUNPtH8hdymUocjTWtpnf247XjL/view?usp=sharing](https://justjs-ybgrq8p58ksg7d7k.builder-preview.com/)' target='_blank'> My technical site on Javascript </a></td>
+    <td>  <a href='https://justjs-ybgrq8p58ksg7d7k.builder-preview.com/' target='_blank'> My technical site on Javascript </a></td>
 </tr>
 
   
