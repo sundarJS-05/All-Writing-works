@@ -12,7 +12,6 @@
   </tr>
   <tr>
     <td> 2 </td>
-    <td>Francisco Chang</td>
    <td>Introduction to HTML, CSS, & JavaScript</td>
     <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CD0101EN-SkillsNetwork/labs/Project/practice-project-instructions_version3.md.html' target='_blank'> Hands-On Lab: Simple Interest Calculator </a></td>
   </tr>
