@@ -1,1 +1,16 @@
+<h3> My Technical writings </h3>
 
+<table>
+  
+  <tr>
+    <th> S-No. </th>
+    <th> Name & Link <br> <sub> (Left click opens link in same page; Use right click) </sub> </th>
+  </tr>
+
+<tr>
+      <td> 1 </td>
+    <td>  <a href='[https://drive.google.com/file/d/1fTwfqwUNPtH8hdymUocjTWtpnf247XjL/view?usp=sharing](https://justjs-ybgrq8p58ksg7d7k.builder-preview.com/)' target='_blank'> My technical site on Javascript </a></td>
+</tr>
+
+  
+</table>
