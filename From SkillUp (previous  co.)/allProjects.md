@@ -3,7 +3,7 @@
   <tr>
     <th>S No. </th>
     <th> Course </th>
-    <th> Project link  <br> <small> (RIGHT CLICK to open in new tab) </small> </th>
+    <th> Project link  <br> <small> (Left click opens link in same page; Use right click) </small> </th>
   </tr>
 
 <tr>
@@ -27,6 +27,102 @@
 
 <tr>
     <td> 4 </td>
+   <td> Getting Started with Git and GitHub </td>
+    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0131EN-SkillsNetwork/labs/Practice_Project/scenario_and_overview.md.html?origin=www.coursera.org' target='_blank'> Practice Project: Overview </a></td>
+</tr>
+
+<tr>
+    <td> 5 </td>
+   <td> Getting Started with Git and GitHub </td>
+    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0131EN-SkillsNetwork/labs/Practice_Project/scenario_and_overview.md.html?origin=www.coursera.org' target='_blank'> Practice Project: Overview </a></td>
+</tr>
+
+<tr>
+    <td> 6 </td>
+   <td> Getting Started with Git and GitHub </td>
+    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0131EN-SkillsNetwork/labs/Practice_Project/scenario_and_overview.md.html?origin=www.coursera.org' target='_blank'> Practice Project: Overview </a></td>
+</tr>
+
+<tr>
+    <td> 7 </td>
+   <td> Getting Started with Git and GitHub </td>
+    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0131EN-SkillsNetwork/labs/Practice_Project/scenario_and_overview.md.html?origin=www.coursera.org' target='_blank'> Practice Project: Overview </a></td>
+</tr>
+
+<tr>
+    <td> 8 </td>
+   <td> Getting Started with Git and GitHub </td>
+    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0131EN-SkillsNetwork/labs/Practice_Project/scenario_and_overview.md.html?origin=www.coursera.org' target='_blank'> Practice Project: Overview </a></td>
+</tr>
+
+<tr>
+    <td> 9 </td>
+   <td> Getting Started with Git and GitHub </td>
+    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0131EN-SkillsNetwork/labs/Practice_Project/scenario_and_overview.md.html?origin=www.coursera.org' target='_blank'> Practice Project: Overview </a></td>
+</tr>
+
+<tr>
+    <td> 10 </td>
+   <td> Getting Started with Git and GitHub </td>
+    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0131EN-SkillsNetwork/labs/Practice_Project/scenario_and_overview.md.html?origin=www.coursera.org' target='_blank'> Practice Project: Overview </a></td>
+</tr>
+
+<tr>
+    <td> 11 </td>
+   <td> Getting Started with Git and GitHub </td>
+    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0131EN-SkillsNetwork/labs/Practice_Project/scenario_and_overview.md.html?origin=www.coursera.org' target='_blank'> Practice Project: Overview </a></td>
+</tr>
+
+<tr>
+    <td> 12 </td>
+   <td> Getting Started with Git and GitHub </td>
+    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0131EN-SkillsNetwork/labs/Practice_Project/scenario_and_overview.md.html?origin=www.coursera.org' target='_blank'> Practice Project: Overview </a></td>
+</tr>
+
+<tr>
+    <td> 13 </td>
+   <td> Getting Started with Git and GitHub </td>
+    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0131EN-SkillsNetwork/labs/Practice_Project/scenario_and_overview.md.html?origin=www.coursera.org' target='_blank'> Practice Project: Overview </a></td>
+</tr>
+
+<tr>
+    <td> 14 </td>
+   <td> Getting Started with Git and GitHub </td>
+    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0131EN-SkillsNetwork/labs/Practice_Project/scenario_and_overview.md.html?origin=www.coursera.org' target='_blank'> Practice Project: Overview </a></td>
+</tr>
+
+<tr>
+    <td> 15 </td>
+   <td> Getting Started with Git and GitHub </td>
+    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0131EN-SkillsNetwork/labs/Practice_Project/scenario_and_overview.md.html?origin=www.coursera.org' target='_blank'> Practice Project: Overview </a></td>
+</tr>
+
+<tr>
+    <td> 16 </td>
+   <td> Getting Started with Git and GitHub </td>
+    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0131EN-SkillsNetwork/labs/Practice_Project/scenario_and_overview.md.html?origin=www.coursera.org' target='_blank'> Practice Project: Overview </a></td>
+</tr>
+
+<tr>
+    <td> 17 </td>
+   <td> Getting Started with Git and GitHub </td>
+    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0131EN-SkillsNetwork/labs/Practice_Project/scenario_and_overview.md.html?origin=www.coursera.org' target='_blank'> Practice Project: Overview </a></td>
+</tr>
+
+<tr>
+    <td> 18 </td>
+   <td> Getting Started with Git and GitHub </td>
+    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0131EN-SkillsNetwork/labs/Practice_Project/scenario_and_overview.md.html?origin=www.coursera.org' target='_blank'> Practice Project: Overview </a></td>
+</tr>
+
+<tr>
+    <td> 19 </td>
+   <td> Getting Started with Git and GitHub </td>
+    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0131EN-SkillsNetwork/labs/Practice_Project/scenario_and_overview.md.html?origin=www.coursera.org' target='_blank'> Practice Project: Overview </a></td>
+</tr>
+
+<tr>
+    <td> 20 </td>
    <td> Getting Started with Git and GitHub </td>
     <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0131EN-SkillsNetwork/labs/Practice_Project/scenario_and_overview.md.html?origin=www.coursera.org' target='_blank'> Practice Project: Overview </a></td>
 </tr>
