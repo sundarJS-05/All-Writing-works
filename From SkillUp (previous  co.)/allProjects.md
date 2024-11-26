@@ -1,9 +1,9 @@
-
 <table>
+  
   <tr>
     <th>S No. </th>
     <th> Course </th>
-    <th> Project link <br> RIGHT CLICK to open in new tab </th>
+    <th> Project link  RIGHT CLICK to open in new tab </th>
   </tr>
 
   <tr>
