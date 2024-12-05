@@ -20,7 +20,7 @@
 
 <tr>
     <td> 3 </td>
-    <td>  <a href='https://docs.google.com/document/d/1YxwRTvYFSKZNypz-D2fHJnHjLBGwZUnJ/edit?usp=sharing&ouid=115479325792774684916&rtpof=true&sd=true' target='_blank'> Jimny! </a></td>
+    <td>  <a href='https://docs.google.com/document/d/1YxwRTvYFSKZNypz-D2fHJnHjLBGwZUnJ/edit?usp=sharing&ouid=115479325792774684916&rtpof=true&sd=true' target='_blank'> Magar So Much! </a></td>
 </tr>
   
   
