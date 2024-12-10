@@ -25,7 +25,7 @@
 
 <tr>
     <td> 4 </td>
-    <td>  <a href='https://drive.google.com/file/d/1PoFz1pMyxdgBrA2JC-dsRmjVrP9eyaZ7/view?usp=drive_link'> Enter NT ; Hello Saltie!  </a></td>
+    <td>  <a href='https://drive.google.com/file/d/1PoFz1pMyxdgBrA2JC-dsRmjVrP9eyaZ7/view?usp=drive_link' target='_blank'> Enter NT ; Hello Saltie!  </a></td>
 </tr>
   
   
