@@ -20,7 +20,7 @@
 <tr>
     <td> 3 </td>
     <td>  
-      <a href='[https://drive.google.com/file/d/1mHmzceedkVi-EhJ7b-a-280GczSw2tqc/view?usp=sharing](https://drive.google.com/file/d/1ZFZjwALs3LhMypTT8o2Tv6XppEERPr7f/view?usp=sharing)' target='_blank'> Anaplan: a brief overview </a></td>
+      <a href='https://drive.google.com/file/d/1ZFZjwALs3LhMypTT8o2Tv6XppEERPr7f/view?usp=sharing' target='_blank'> Anaplan: a brief overview </a></td>
 </tr>
 
 
