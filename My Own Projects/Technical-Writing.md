@@ -15,7 +15,13 @@
 <tr>
     <td> 2 </td>
     <td>  
-      <a href='https://drive.google.com/file/d/1ZFZjwALs3LhMypTT8o2Tv6XppEERPr7f/view?usp=sharing' target='_blank'> Anaplan: a brief overview </a></td>
+      <a href='https://drive.google.com/file/d/1aA8Yl99rXZ9vqt-4Iao2beXBJe4NNcK0/view?usp=sharing' target='_blank'> Anaplan: a brief overview </a></td>
+</tr>
+
+<tr>
+    <td> 3 </td>
+    <td>  
+      <a href='https://drive.google.com/file/d/1P9rvGMRcnBhWNfV8RUlz19MhFbWzSdxW/view?usp=sharing' target='_blank'> React Riffs 01 </a></td>
 </tr>
 
 </table>
