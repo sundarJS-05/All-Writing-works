@@ -24,6 +24,13 @@
       <a href='https://drive.google.com/file/d/1P9rvGMRcnBhWNfV8RUlz19MhFbWzSdxW/view?usp=sharing' target='_blank'> React Riffs 01 </a></td>
 </tr>
 
+<tr>
+    <td> 4 </td>
+    <td>  
+      <a href='https://drive.google.com/file/d/1bcxHzq8IMAzp21g3ooV0LY1zOI7kfXQl/view?usp=sharing' target='_blank'> Datatypes in Javscript
+ </a></td>
+</tr>
+
 </table>
 
 <hr>
