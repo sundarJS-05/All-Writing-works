@@ -38,6 +38,14 @@
     </td>
 </tr>
 
+<tr>
+    <td> 6 </td>
+    <td>  
+      <a href='https://drive.google.com/file/d/1LF669O8-dQlSGdHgj9DmJEMTo10a346r/view?usp=sharing' target='_blank'> ReactJS: history, terminologies and practices </a> 
+    </td>
+</tr>
+
+
 </table>
 
 <hr>
